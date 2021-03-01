@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/ExpertKiD/learn-mssql#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "mssql": "^6.3.1"
   }
 }
