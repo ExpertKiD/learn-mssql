@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/ExpertKiD/learn-mssql/issues"
   },
-  "homepage": "https://github.com/ExpertKiD/learn-mssql#readme"
+  "homepage": "https://github.com/ExpertKiD/learn-mssql#readme",
+  "dependencies": {
+    "mssql": "^6.3.1"
+  }
 }
