@@ -4,3 +4,6 @@ node_modules/
 
 # yarn files
 yarn.lock
+
+#.idea files
+.idea/
