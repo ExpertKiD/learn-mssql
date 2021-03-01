@@ -20,10 +20,14 @@ Create a project named `learn-mssql` and `npm init` the project. Then install th
 * MSSQL Package for Connecting to SQL Server 2019
 ```
 npm install mssql
+or
+yarn install mssql
 ```
 
 * Dotenv Package for Saving Environment variables
 ```
 npm install dotenv
+or
+yarn install dotenv
 ```
 
