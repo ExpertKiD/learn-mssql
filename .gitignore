@@ -8,5 +8,5 @@ yarn.lock
 #.idea files
 .idea/
 
-# config files
+# configuration files
 .env
